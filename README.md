@@ -35,20 +35,16 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-
+use npm install command also after cloning the project to install all the dependencies
 
 ## Setup Instructions:
 
 1. Clone this repository:
-
-
 2. Navigate to the project directory:
-
-
 3. Install dependencies:
 npm install
 
-4. Run the app:
+5. Run the app:
 npm run dev
 
 
