@@ -34,3 +34,29 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+## Setup Instructions:
+
+1. Clone this repository:
+
+
+2. Navigate to the project directory:
+
+
+3. Install dependencies:
+npm install
+
+4. Run the app:
+npm run dev
+
+
+## Task Sorting Approach:
+Tasks are sorted based on their priority using the following numeric mapping:
+- High: 1
+- Medium: 2
+- Low: 3
+
+The sorting function compares these numeric values to sort tasks, with high priority tasks appearing first.
+
